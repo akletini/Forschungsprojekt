@@ -129,5 +129,7 @@ dmypy.json
 .pyre/
 
 # Custom
-/data/*.csv
-/data/*.xlsx
+/data/*
+!/data/.gitkeep
+/models/*
+!/models/.gitkeep
