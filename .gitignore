@@ -133,4 +133,13 @@ dmypy.json
 !/data/.gitkeep
 /models/*
 /models_concat/*
+/models_undersampled/*
 !/models/.gitkeep
+/GAF/*
+/GAF_alt/*
+/GAF_mid(zugross)/*
+/GAF_zugross/*
+/quellen/
+/image_csvs
+*.pdf
+*.drawio
